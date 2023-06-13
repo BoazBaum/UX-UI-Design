@@ -1,2 +1,2 @@
 # UX-UI-Design
-# NOTE - To be allowde to open the prototype video, you need to dounload it first
+# Note - To be able to open the prototype video, you need to download it first
